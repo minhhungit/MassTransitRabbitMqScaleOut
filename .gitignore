@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MassTransitScaleOutRabbitMq
+/MassTransitScaleOut.ConsumerOne/bin/Debug
+/MassTransitScaleOut.ConsumerOne/obj/Debug
+/MassTransitScaleOut.ConsumerTwo/bin/Debug
+/MassTransitScaleOut.ConsumerTwo/obj/Debug
+/MassTransitScaleOut.Messages/bin/Debug
+/MassTransitScaleOut.Messages/obj/Debug
+/MassTransitScaleOut.Publisher/bin/Debug
+/MassTransitScaleOut.Publisher/obj/Debug
+/packages
